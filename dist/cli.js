@@ -230,7 +230,7 @@ var tauri$2 = {
 			timestampUrl: "",
 			wix: {
 				language: [
-					"en-US"
+					"zh-CN"
 				],
 				template: "assets/main.wxs"
 			}
